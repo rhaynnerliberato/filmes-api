@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rhaynnerliberato/Projects/filmes-api/FilmesApi/FilmesApi.csproj": {}
+    "/Users/rhaynnerliberato/Projects/filmes-api/UsuariosApi/UsuariosApi.csproj": {}
   },
   "projects": {
-    "/Users/rhaynnerliberato/Projects/filmes-api/FilmesApi/FilmesApi.csproj": {
+    "/Users/rhaynnerliberato/Projects/filmes-api/UsuariosApi/UsuariosApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rhaynnerliberato/Projects/filmes-api/FilmesApi/FilmesApi.csproj",
-        "projectName": "FilmesApi",
-        "projectPath": "/Users/rhaynnerliberato/Projects/filmes-api/FilmesApi/FilmesApi.csproj",
+        "projectUniqueName": "/Users/rhaynnerliberato/Projects/filmes-api/UsuariosApi/UsuariosApi.csproj",
+        "projectName": "UsuariosApi",
+        "projectPath": "/Users/rhaynnerliberato/Projects/filmes-api/UsuariosApi/UsuariosApi.csproj",
         "packagesPath": "/Users/rhaynnerliberato/.nuget/packages/",
-        "outputPath": "/Users/rhaynnerliberato/Projects/filmes-api/FilmesApi/obj/",
+        "outputPath": "/Users/rhaynnerliberato/Projects/filmes-api/UsuariosApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rhaynnerliberato/.nuget/NuGet/NuGet.Config"
@@ -46,19 +46,11 @@
               "target": "Package",
               "version": "[2.5.0, )"
             },
-            "Microsoft.AspNetCore.Mvc.Formatters.Json": {
+            "Microsoft.AspNetCore.Identity": {
               "target": "Package",
               "version": "[2.2.0, )"
             },
-            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
-              "target": "Package",
-              "version": "[5.0.7, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.5, )"
-            },
-            "Microsoft.EntityFrameworkCore.Proxies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.5, )"
             },
@@ -68,17 +60,25 @@
               "target": "Package",
               "version": "[5.0.5, )"
             },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
             "MySql.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.3, )"
             },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.1, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.12.0, )"
             }
           },
           "imports": [

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2c8rErTxvqFv6TmYYLgRCd1Or5/NRWpRK6lggTJmbriOO4PHrfIXMWupZIqXWYBWL1029rsZ8CNt8yaSXMJAQw==",
+  "dgSpecHash": "d7VwYS2wzoNOKioYu58XY39EHKSxU2Oi+F/liQx0x2i9XNiLnOV3SuZ4cICPqmIPLizms4zt4zI/BibTcFQYTg==",
   "success": true,
   "projectFilePath": "/Users/rhaynnerliberato/Projects/filmes-api/FilmesApi/FilmesApi.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "/Users/rhaynnerliberato/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "/Users/rhaynnerliberato/.nuget/packages/bouncycastle.netcore/1.8.5/bouncycastle.netcore.1.8.5.nupkg.sha512",
     "/Users/rhaynnerliberato/.nuget/packages/castle.core/4.4.1/castle.core.4.4.1.nupkg.sha512",
+    "/Users/rhaynnerliberato/.nuget/packages/fluentresults/2.5.0/fluentresults.2.5.0.nupkg.sha512",
     "/Users/rhaynnerliberato/.nuget/packages/google.protobuf/3.14.0/google.protobuf.3.14.0.nupkg.sha512",
     "/Users/rhaynnerliberato/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/rhaynnerliberato/.nuget/packages/k4os.compression.lz4/1.1.11/k4os.compression.lz4.1.1.11.nupkg.sha512",

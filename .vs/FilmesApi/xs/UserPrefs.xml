@@ -1,11 +1,10 @@
 ﻿<Properties StartupConfiguration="{C5BAD384-92D3-4EEF-A1CE-3603CBF45DDF}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FilmesApi" expanded="True">
+          <Node name="FilmesApi" expanded="True" selected="True">
             <Node name="FilmesApi" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True">
@@ -20,8 +19,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.FilmesApi PreferredExecutionTarget="/Applications/Safari.app" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FilmesApi PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

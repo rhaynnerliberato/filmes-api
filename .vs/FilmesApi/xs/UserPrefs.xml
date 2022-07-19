@@ -5,10 +5,12 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FilmesApi" expanded="True" selected="True">
+          <Node name="FilmesApi" expanded="True">
             <Node name="FilmesApi" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="Data" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Dtos" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>

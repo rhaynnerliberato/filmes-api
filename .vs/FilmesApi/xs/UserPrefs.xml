@@ -11,6 +11,7 @@
                 <Node name="Dtos" expanded="True" />
               </Node>
             </Node>
+            <Node name="UsuariosApi" expanded="True" />
           </Node>
         </State>
       </Pad>
